@@ -1,0 +1,16 @@
+name: Powow
+description: Distributed Implicit Geolocated Social Network
+meta_description: "Distributed Implicit Geolocated Social Network"
+
+markdown: kramdown
+highlighter: pygments
+logo: true
+paginate: 15
+baseurl: /
+domain_name: 'blog.powow.info'
+google_analytics: 'UA-80239421-1'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog.powow.info'
+author:         'Powow, Inc'
